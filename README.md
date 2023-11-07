@@ -1,6 +1,6 @@
-# Project Name
+# Auth App Template
 
-Short description or introduction of your project.
+Sample Project with Auth (Login, Signup, Forgot Password)
 
 ## Technologies Used
 
